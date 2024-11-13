@@ -9,9 +9,9 @@ const AdminDashboard = (props) => {
     <>
       <Header changeUser={props.changeUser} />
       <CreateTaskList />
-      <Alltask  />
+      <Alltask />
     </>
   );
-}
+};
 
 export default AdminDashboard

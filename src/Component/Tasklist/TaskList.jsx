@@ -5,7 +5,7 @@ import CompletedTask from "./CompleteTask";
 import FailedTask from "./FailedTask";
 
 const TaskList = ({ data }) => {
-  // console.log(data.tasks);
+  
   
   return (
     <>
